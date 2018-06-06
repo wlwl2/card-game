@@ -17,3 +17,7 @@ const
 let
 
 groups of cards in different programming languages
+
+do exercises to gain cards
+
+person who has the most groups wins
