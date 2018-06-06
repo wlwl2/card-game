@@ -2,7 +2,7 @@
 
 card game with a programming theme.
 
-Plan to do 8 for each group, but now 8 languages 4 in each group 2 groups per language.
+Plan to do 8 for each group, but now 4 languages 4 in each group 4 groups per language.
 
 E.g. 
 
@@ -15,6 +15,10 @@ Swift
 
 1. Types
 2. operators
+
+Kotlin
+
+CSS
 
 
 
