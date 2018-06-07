@@ -25,7 +25,9 @@ circle.
 
 3. Randomly choose a player to be the questioner.
 
-4. The questioner takes one (1) card from the top of the deck.
+4. The questioner takes one (1) card from the top of the deck. If it is the
+wrong way up and the answer is revealed, just place it back correctly and
+reshuffle the deck.
 
 5. The questioner then asks the question on that card, whilst hiding the
 question from the other players' views. He or she must ask the question clearly
